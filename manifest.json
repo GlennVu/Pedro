@@ -1,0 +1,6 @@
+{
+  "name": "Make School Coding Challenged",
+  "short_name": "MS",
+  "start_url": "/",
+  "display": "standalone"
+}
