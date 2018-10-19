@@ -1,5 +1,7 @@
 #  Frontend Code Challenge
 
+Author <pdgago@gmail.com>
+
 ## Run twitter server
 `npm install`
 `npm start`
